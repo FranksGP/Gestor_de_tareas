@@ -1,1 +1,2 @@
-print("Hola mundo")
+def __init__(self):
+    self.tareas = []

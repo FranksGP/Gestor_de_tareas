@@ -1,0 +1,44 @@
+Taller de Programación en Python con Git y GitHub
+📌 Proyecto: Gestor de Tareas en Consola
+
+Objetivo:
+Desarrollar una aplicación en Python que permita gestionar tareas mediante una interfaz de línea de comandos. Se trabajará en equipo utilizando Git y GitHub para la colaboración.
+
+📆 Parte 1: Organización del Equipo y Configuración Inicial
+Crear un repositorio en GitHub con el nombre gestor-tareas-python.
+Asignar roles dentro del equipo:
+Líder del proyecto: Se encarga de organizar el trabajo y revisar los avances.
+Desarrollador principal: Escribe la base del código y organiza el proyecto.
+Colaboradores: Implementan funciones adicionales y prueban el código.
+Clonar el repositorio en sus computadoras y crear una rama dev para el desarrollo del código.
+📝 Parte 2: Desarrollo del Proyecto
+🔹 Requisitos funcionales
+El programa debe permitir:
+✔ Agregar una tarea con un título y una descripción.
+✔ Listar todas las tareas con su estado (Pendiente o Completada).
+✔ Marcar una tarea como completada.
+✔ Eliminar una tarea.
+✔ Guardar y cargar tareas usando un archivo JSON.
+
+🔹 Requisitos técnicos
+Usar listas y diccionarios en Python para manejar las tareas.
+Implementar funciones para cada acción del programa.
+Utilizar estructuras de control como ciclos y condicionales.
+Manejar archivos JSON para almacenar tareas de forma persistente.
+
+🔧 Parte 3: División del Trabajo y GitHub
+📂 Estructura del Proyecto
+# Archivo principal del programa
+# Módulo con funciones para gestionar tareas
+# Archivo donde se guardarán las tareas
+# Documentación del proyecto
+
+📊 Parte 4: Entrega y Evaluación
+Cada miembro debe hacer al menos 6 commits con mensajes claros.
+Deben hacer una Pull Request en GitHub y aprobar los cambios entre ustedes.
+Documentar el código en el archivo README.md explicando cómo funciona el programa.
+
+📌 Modo de evaluación: Todos deben participar activamente y dejar evidencia en GitHub.
+
+💡 ¡Recuerden! Pueden apoyarse entre sí y buscar información en documentación oficial. 🚀
+

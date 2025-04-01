@@ -27,8 +27,3 @@ def listarTask():
     for index, task in enumerate(tasks, start=1):
         status = "✔ Completada" if task["completed"] else "✘ Pendiente"
         print(f"{index}. {task['titulo']} - {task['descripcion']} [{status}]")
-
-
-
-
-

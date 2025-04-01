@@ -9,13 +9,13 @@ Este es un gestor de tareas basado en línea de comandos desarrollado en Python.
 
 1. **Clonar el repositorio (opcional)**
    ```sh
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/FranksGP/Gestor_de_tareas.git
+   cd Gestor_de_tareas
    ```
 
 2. **Ejecutar el script**
    ```sh
-   python gestor_tareas.py
+   python index.py
    ```
 
 ## 🛠️ Funcionalidades

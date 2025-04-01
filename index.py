@@ -27,3 +27,13 @@ def listarTask():
     for index, task in enumerate(tasks, start=1):
         status = "✔ Completada" if task["completed"] else "✘ Pendiente"
         print(f"{index}. {task['titulo']} - {task['descripcion']} [{status}]")
+    
+
+def tareaCompletada(index):
+    tasks = cargarTask()
+    if 0 < index <= len(tasks):
+        tasks[index - 1]["completed"] = True
+        cargarTask(tasks)
+        print("Tarea marcada como completada.")
+    else:
+        print("Índice inválido.")

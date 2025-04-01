@@ -13,7 +13,3 @@ def cargarTask(tasks):
     with open(TASKS_FILE, "w") as file:
         json.dump(tasks, file, indent=4)
 
-
-
-
-

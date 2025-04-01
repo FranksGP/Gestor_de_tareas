@@ -19,3 +19,11 @@ def agregarTask(titulo, descripcion):
     cargarTask(tasks)
     print("Tarea agregada exitosamente.")
 
+def listarTask():
+    tasks = cargarTask()
+    if not tasks:
+        print("No hay tareas disponibles.")
+        return
+    for index, task in enumerate(tasks, start=1):
+        status = "✔ Completada" if task["completed"] else "✘ Pendiente"
+        print(f"{index}. {task['titulo']} - {task['descripcion']} [{status}]")

@@ -3,7 +3,7 @@
 Este es un gestor de tareas basado en línea de comandos desarrollado en Python. Permite gestionar tareas pendientes, almacenarlas en un archivo JSON y modificarlas según sea necesario.
 
 ## 📋 Requisitos
-- Python 3.x instalado en tu sistema.
+- Python 3.13 o version mas instalado en tu sistema.
 
 ## 🚀 Instalación y Ejecución
 

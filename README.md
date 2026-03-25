@@ -62,7 +62,7 @@ Algunas posibles mejoras para versiones futuras incluyen:
 - Sincronización con bases de datos remotas.
 
 ## 👨‍💻 Autor
-Desarrollado por Jorge Hernadez, Dissel Leal y Frank Garzón.
+Desarrollado por Jorge Hernández, Dissel Leal y Frank Garzón.
 
 ¡Disfruta organizando tus tareas de manera eficiente! 🎯
 
